@@ -1,0 +1,2 @@
+class UnisenderException(Exception):
+    pass
